@@ -1,3 +1,4 @@
+// AVERAGE
 package main
 
 import (
