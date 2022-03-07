@@ -1,4 +1,5 @@
 // AVERAGE
+//New comment
 package main
 
 import (
