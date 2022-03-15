@@ -1,5 +1,5 @@
 // AVERAGE
-//New comment
+// Вычисляет среднее значение
 package main
 
 import (
